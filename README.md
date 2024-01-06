@@ -1,7 +1,11 @@
 # ¡Hola, soy Marlon Vélez! 👋
 
 ## Acerca de Mí 👨🏻‍💻
-Soy un apasionado desarrollador junior FullStack con sede en Cuenca, Ecuador. Mi enfoque principal se encuentra en el desarrollo frontend, pero disfruto explorar y entender el proceso completo, desde el frontend hasta la administración de bases de datos.
+Soy un apasionado desarrollador Full Stack junior con residencia en Cuenca, Ecuador. 
+Mi compromiso se centra en la creación de aplicaciones web robustas, seguras y escalables. 
+Disfruto inmensamente del desafío del desarrollo de aplicaciones, ya que considero que cada proyecto, 
+junto con sus desafíos, es una valiosa oportunidad de aprendizaje en este fascinante y dinámico campo de la programación. 
+Mi objetivo es continuar contribuyendo al avance tecnológico mediante soluciones innovadoras y eficientes.
 
 ## Lenguajes y Tecnologías Favoritas
 - 💻 Lenguajes de Programación Favoritos: Angular, Java, React.
